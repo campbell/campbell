@@ -1,0 +1,6 @@
+security-keys.txt
+
+*keys.txt
+security-keys/*
+
+logs/*
